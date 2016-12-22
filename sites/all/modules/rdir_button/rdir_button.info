@@ -1,0 +1,5 @@
+name = Redirect Button
+description = Generates a button to redirect new users to sign up page.
+package = Other
+core = 7.x
+files[] = rdir_button.module

@@ -14,3 +14,9 @@ body {
   background-image: url('../../../../default/files/stardust.png');
   background-position: 70% 50%;
 }
+.region-content {
+    color: #fff;
+}
+.img-responsive {
+    text-align: center;
+}
