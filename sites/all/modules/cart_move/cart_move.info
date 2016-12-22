@@ -1,0 +1,5 @@
+name = Cart Move
+description = Change the menu that the shopping cart appears in.
+package = Other
+core = 7.x
+files[] = cart_move.module

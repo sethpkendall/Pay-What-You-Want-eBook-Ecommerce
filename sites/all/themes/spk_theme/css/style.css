@@ -11,6 +11,6 @@ h2 a{
   color: #59ddff;
 }
 body {
-  background-image: url("https://www.nasa.gov/sites/default/files/thumbnails/image/ngc6357.jpg");
+  background-image: url('../../../../default/files/stardust.png');
   background-position: 70% 50%;
 }

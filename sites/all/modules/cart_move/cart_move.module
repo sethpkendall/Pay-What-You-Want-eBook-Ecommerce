@@ -1,0 +1,9 @@
+<?php
+/**
+ * Implements hook_menu_alter
+ */
+function cart_move_menu_alter(&$items) {
+    // Alter the 'cart' and 'cart/my' items to place them in the 'User menu' menu
+    $items['cart']['menu_name'] = 'user-menu';
+    $items['cart/my']['menu_name'] = 'user-menu';
+}
