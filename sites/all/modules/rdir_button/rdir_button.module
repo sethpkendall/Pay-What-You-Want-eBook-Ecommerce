@@ -13,15 +13,15 @@ function rdir_button_menu() {
 
 function rdir_button_form() {
     $form['greeting'] = array(
-        '#markup' => '<h1> Welcome the Kismet Website </h1> <br> <h4><b><u>A little bit about this project :</u></b></h4><br><p>This website is a project by Seth Peter Kendall and has been created to allow access to downloads of his first novel called <em>Kismet</em>. The novel will be realeased in the form of small novellas that can be downloaded one at a time and at any price. It is important to note that any price includes free! My main goal is to learn and improve my writing and for that I need readers! Please give my book a read and if you enjoy it please throw me a couple bones, give me feedback and discussion on the blog or share with others who may enjoy it!</p><br><p>Thank you!</p>',
+        '#markup' => '<h2> Welcome the Kismet Website </h2> <br> <h4><b><u>A little bit about this project :</u></b></h4><br><p>This website is a project by Seth Peter Kendall and has been created to allow access to downloads of his first novel called <em>Kismet</em>. The novel will be realeased in the form of small novellas that can be downloaded one at a time and at any price. It is important to note that any price includes free! My main goal is to learn and improve my writing and for that I need readers! Please give my book a read and if you enjoy it please throw me a couple bones, give me feedback and discussion on the blog or share with others who may enjoy it!</p><br><p>Thank you!</p>',
     );
 
     $form['submit'] = array(
         '#type' => 'submit',
-        '#value' => 'Sign Up',
+        '#value' => 'Sign up to download the story',
         '#attributes' => array(
             'class' => array(
-                'btn-success'
+                'btn-primary'
             ),
         ),
     );

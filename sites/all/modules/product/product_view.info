@@ -1,0 +1,5 @@
+name = Product view
+description = A module to display download add-to-cart forms using ajax.
+package = Other
+core = 7.x
+files[] = product.module

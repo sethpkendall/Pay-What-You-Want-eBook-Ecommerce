@@ -20,3 +20,9 @@ body {
 .img-responsive {
     text-align: center;
 }
+#block-user-login {
+    margin-top: 20px;
+}
+.field-content a {
+    font-size: 30px;
+}
