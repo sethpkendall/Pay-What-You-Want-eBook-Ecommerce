@@ -17,12 +17,12 @@ _This Drupal site is an ecommerce website that allows for sale of digital downlo
 * Once the database has imported navigate to localhost:8888 or whichever port number your local server is hosting the drupal site on
 
 ##Technologies Used
-Drupal
-Drupal Commerce Module
-Commerce File Module
-Commerce License Module
-Commerce Paypal Module
-Rules Module
+* Drupal
+* Drupal Commerce Module
+* Commerce File Module
+* Commerce License Module
+* Commerce Paypal Module
+* Rules Module
 
 ## Known Bugs
 No known bugs.
