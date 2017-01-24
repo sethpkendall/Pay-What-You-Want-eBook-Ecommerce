@@ -26,3 +26,9 @@ body {
 .field-content a {
     font-size: 30px;
 }
+#node-2 .img-responsive {
+  border-radius: 50%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
